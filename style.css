@@ -1,0 +1,87 @@
+/* CSS */
+
+body {
+    background-color: #DAE5E2;
+    color: #444444;
+    font-family: 'Arial', sans-serif;
+    padding: 0%;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #34816c;
+    font-size: 50px;
+}
+
+.calculator {
+    background-color: #DAE5E2;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    height: 275px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0 5px 10px rgba(255, 255, 255, 0.3), 0 5px 10px #34816c;
+}
+
+label,
+input,
+button {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: x-large;
+    color: #34816c;
+
+}
+
+button {
+    background-color: #7cc1ae;
+    color: #010101;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #34816c;
+}
+
+
+#result {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    color: #2a874c;
+}
+
+#countdown {
+    margin-top: 10px;
+    text-align: center;
+    color: #3d626a;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#countdown.celebrate {
+    color: #b01515ce;
+    font-size: 27px;
+    animation: pop 1s infinite;
+}
+
+@keyframes pop {
+
+    0%,
+    100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(0.9);
+    }
+}
