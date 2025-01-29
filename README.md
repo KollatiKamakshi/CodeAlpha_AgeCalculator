@@ -19,7 +19,7 @@ Here's what you can expect from the Age Calculator:
 # Deployment
 You can access the live application here: 
 Github - https://kollatikamakshi.github.io/CodeAlpha_AgeCalculator/
-Netlify - clinquant-dasik-4ce112.netlify.app
+Netlify - https://clinquant-dasik-4ce112.netlify.app/
 
 # Documentation and Resources
 This repository includes:
