@@ -17,7 +17,9 @@ Here's what you can expect from the Age Calculator:
 3. Check the countdown to your next birthday!
 
 # Deployment
-You can access the live application here: https://kollatikamakshi.github.io/CodeAlpha_AgeCalculator/
+You can access the live application here: 
+Github - https://kollatikamakshi.github.io/CodeAlpha_AgeCalculator/
+Netlify - clinquant-dasik-4ce112.netlify.app
 
 # Documentation and Resources
 This repository includes:
